@@ -1,13 +1,13 @@
 # 🌟 Bem-vindo ao Meu Repositório de Estudos em Dados!
 
-# 💻 About Me
+ 💻 About Me
 - 🌱 I’m currently a Data Student. =D  
 - 💻 I'm dedicating my full time to learning data skills for Science, Analysis and Engineering
 - 🔭 Now working on projects related to my courses
 - 📫 How to reach me: [rafael.saunier@outlook.com] / [https://www.linkedin.com/in/rafael-saunier/]
 - ⚡ Fun fact: I have 7 years of experience as a tech recruiter before starting my journey in data
 
-# 🛠️ My Toolbox
+ 🛠️ My Toolbox
 - **Languages**: Python, SQL, R
 - **Tools**:  Jupyter Notebook, Pandas, NumPy, Power BI, VS Code, Git
 - **Skills**: Data Analysis, Data Visualization, ETL Pipelines
