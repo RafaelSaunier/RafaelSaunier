@@ -9,7 +9,7 @@
 
  🛠️ My Toolbox
 - **Languages**: Python, SQL, R
-- **Tools**:  Jupyter Notebook, Pandas, NumPy, Power BI, VS Code, Git
+- **Tools**:  Jupyter Notebook, Pandas, NumPy, Matplotlib, Power BI
 - **Skills**: Data Analysis, Data Visualization, ETL Pipelines
 <!--
 **RafaelSaunier/RafaelSaunier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
